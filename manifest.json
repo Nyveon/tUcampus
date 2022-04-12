@@ -1,0 +1,19 @@
+{
+    "name": "tUcampus",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "permissions": [
+        "storage",
+        "webNavigation"
+    ],
+    "background": {
+        "scripts": [
+            "js/background.js"
+        ],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_popup": "html/menu.html",
+        "default_title": "tUcampus"
+    }
+}
