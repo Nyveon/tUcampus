@@ -1,5 +1,5 @@
 # tUcampus
-Extensión de Chromium y Firefox que agrega configuraciones de personalización a Ucampus.
+Extensión de Chromium y Firefox que agrega configuraciones de personalización a Ucampus. También ver [tU-Cursos](https://github.com/Nyveon/tU-Cursos) para U-Cursos.
 
 # Características:
 
