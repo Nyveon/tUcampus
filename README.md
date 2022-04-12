@@ -2,7 +2,12 @@
 Extensión de Chromium y Firefox que agrega configuraciones de personalización a Ucampus.
 
 # Características:
-- En progreso -
+
+## Homepage personalizado:
+Puedes redirigir ucampus.uchile.cl al dominion de tu elección, para no tener que ir a la pagina de home que elige el sistema automáticamente. Por ejemplo, a mi me gusta ir a la encuesta diaria de salud siempre, y no he lgorado que el algoritmo de ucampus reconozca eso. Con esta opción, ahora se puede!
+
+![image](https://user-images.githubusercontent.com/54124297/162881649-0f145e95-8679-42a0-b049-fe9574fcc947.png)
+
 
 # ⚠ Descargo de responsabilidad:
 
